@@ -1,0 +1,210 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>WSSO - Water Sanitation Portal</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]>--><script src="assets/js/ie/html5shiv.js"></script><!--[endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]--><link rel="stylesheet" href="assets/css/ie8.css" /><!--[endif]-->
+
+	</head>
+	<body class="landing">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+					<h1 id="logo"><a href="index.html">WSSO</a></h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li>
+								<a href="#">About US</a>
+								<ul>
+                                                                    <li><a href="left-sidebar.html">Cautionary</a></li>
+                                                                    <li><a href="right-sidebar.html">Preventionary</a></li>
+									
+								</ul>
+							</li>
+                                                        <li><a href="statistics.html">Statistics</a></li>
+                                                        <li><a href="SignUp.php" class="button special">Contact Us</a></li>
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Banner -->
+				<section id="banner">
+					<div class="content">
+						<header>
+							<h2>Sanitation is Paramount</h2>
+							&emsp13;<p>Every Drop Matters.<br />
+                                                            A priceless treasure.<br> Save it with pleasure.</p>
+						</header>
+						<span class="image"><img src="images/pic01.jpeg" alt="" /></span>
+					</div>
+					<a href="#one" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- One -->
+				<section id="one" class="spotlight style1 bottom">
+					<span class="image fit main"><img src="images/pic02.jpg" alt="" /></span>
+					<div class="content">
+						<div class="container">
+							<div class="row">
+								<div class="\-4u 12u$(medium)">
+									<header>
+										<h2>Water on the Earth</h2>
+                                                                                <p>97% of water present on earth is Salt Water.<br>Only about 2.7% is present a Fresh Water.</p>
+                                                                                
+									</header>
+								</div>
+								<div class="\-4u 12u$(medium)">
+									<p>75.2% of this Fresh Water is present in ice in Polar Regions, and another
+                                                                        22.6% is present in Ground Water. The rest, about 2.2% is present in lakes,
+                                                                        rivers, atmosphere, soil and vegetation. And that is also not fit for drinking 
+                                                                        in many areas.</p>
+								</div>
+								<div class="\-4u 12u$(medium)">
+									<p>The need for Water Resources Development and Management thus arises because most
+                                                                            of the water is not available for use and secondly it is characterized by
+                                                                            its highly uneven distribution.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<a href="#two" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- Two -->
+				<section id="two" class="spotlight style2 right">
+					<span class="image fit main"><img src="images/pic03.jpg" alt="" /></span>
+					<div class="content">
+						<header>
+							<h2>Alarming Scarcity of Fresh Water</h2>
+							<p>By polluting clear water with slime you will never find good drinking water.</p>
+						</header>
+						<p>As a result, some 1.1 billion people worldwide lack access to water, and a total of 2.7 billion find water scarce for at least one month of the year. Inadequate sanitation is also a problem for 2.4 billion people—they are exposed to diseases, such as cholera and typhoid fever, and other water-borne illnesses. Two million people, mostly children, die each year from diarrheal diseases alone.</p>
+						<ul class="actions">
+							<li><a href="sanitips.html" class="button">Learn More</a></li> <!--sanitation tips-->
+						</ul>
+					</div>
+					<a href="#three" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- Three -->
+				<section id="three" class="spotlight style3 left">
+					<span class="image fit main bottom"><img src="images/pic04.jpg" alt="" /></span>
+					<div class="content">
+						<header>
+							<h2>Do You drink Water ?</h2>
+                                                        <p>Water is life.<br>And clean Water means Health.</p>
+						</header>
+						<p>Many of the water systems that keep ecosystems thriving and feed a growing human population have become stressed. Rivers, lakes and aquifers are drying up or becoming too polluted to use. More than half the world’s wetlands have disappeared. Agriculture consumes more water than any other source and wastes much of that through inefficiencies. Climate change is altering patterns of weather and water around the world, causing shortages and droughts in some areas and floods in others.</p>
+						<ul class="actions">
+							<li><a href="sanitips.html" class="button">Learn More</a></li><!--sanitation tips -->
+						</ul>
+					</div>
+					<a href="#four" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- Four -->
+				<section id="four" class="wrapper style1 special fade-up">
+					<div class="container">
+						<header class="major">
+							<h2>What can you do for your Water ?</h2>
+							<p>The biggest problems can be solved by taking a single step.</p>
+						</header>
+						<div class="box alt">
+							<div class="row uniform">
+								<section class="4u 6u(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-area-chart"></span>
+									<h3>Statistics</h3>
+									<p>Know your Water</p>
+								</section>
+								<section class="4u 6u$(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-comment"></span>
+									<h3>Report Us</h3>
+									<p>Let us know how can we Help</p>
+								</section>
+								<section class="4u 6u(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-flask"></span>
+									<h3>Safe Limits</h3>
+									<p>Get knowledge of permissible limits by BIS</p>
+								</section>
+								<section class="4u 6u$(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-paper-plane"></span>
+									<h3>Contact Us</h3>
+									<p>We are open to your suggestions</p>
+								</section>
+								<section class="4u 6u(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-file"></span>
+									<h3>Sanitation Tips</h3>
+									<p>Prevention is better than Cure</p>
+								</section>
+								<section class="4u 6u$(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-lock"></span>
+									<h3>Sign Up</h3>
+									<p>Join Us to know more</p>
+								</section>
+							</div>
+						</div>
+						<footer class="major">
+							<ul class="actions">
+								<li><a href="index.html" class="button">WSSO</a></li>
+							</ul>
+						</footer>
+					</div>
+				</section>
+
+			<!-- Five -->
+
+				<section id="five" class="wrapper style2 special fade">
+					<div class="container">
+						<header>
+							<h2>Better two than One</h2>
+							<p>Safe water and Sanitation facilities for all</p>
+						</header>
+						<form method="post" action="#" class="container 50%">
+							<div class="row uniform 50%">
+ 
+                                                                <?php
+                                                                      if (is_login()){
+                                                                 ?>
+								<div class="8u 12u$(xsmall)"><input type="email" name="email" id="email" placeholder="Your Email Address" /></div>
+								<div class="\-4u 12u$(xsmall)"><input type="submit" value="Get Started" class="fit special" /></div>
+							</div>
+						</form>
+					</div>
+				</section>
+
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+						<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
+						<li><a href="#" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>&copy; Develovers. All rights reserved.</li><li>Design: <a href="http://devlovers.tech">Devlovers</a></li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]--><script src="assets/js/ie/respond.min.js"></script><!--[endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
